@@ -32,8 +32,8 @@ The goal was to design test cases, execute them, and document found bugs.
 
 ## Files
 - `registration_test_cases.xlsx` — test cases
-- `Bug_report.xlsx` — bug reports
-- `screenshots/` — screenshots for each bug
+- `Bug_report.xlsx` - bug reports
+- `screenshots/` - screenshots for each bug
 
 ---
 
