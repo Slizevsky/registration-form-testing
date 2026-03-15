@@ -1,4 +1,4 @@
-# Registration Form — Manual Testing Portfolio
+# Registration Form - Manual Testing Portfolio
 
 ## Project Overview
 Manual testing of a web registration form on a QA practice site.
